@@ -29,7 +29,7 @@ I'm Husen and I'm a Research Web Developer, living Daegu, South Korea <img src="
 - :zap: In my free time, I make posts for my technical blog in Telegram
 
 - :mailbox:How to reach me: lirvess@gmail.com
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -41,7 +41,7 @@ I'm Husen and I'm a Research Web Developer, living Daegu, South Korea <img src="
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
+---
 <!--
 **lirveaa/lirveaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

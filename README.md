@@ -13,14 +13,14 @@
 </div>
 
 <h1>
-  hey there
+  hey there, I'm Husen from Uzbekistan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
 
 ### :woman_technologist: About Me :
-I'm Husen and I'm a Research Web Developer, living Daegu, South Korea <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I'm a Research Web Developer, living Daegu, South Korea <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 - :telescope: 🔭 I’m currently working on WaterQuality projects as a Software Engineer and contributing to frontend and backend for building web applications.
 

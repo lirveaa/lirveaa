@@ -20,7 +20,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I'm a Research Web Developer, currently living in Daegu, South Korea <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I'm a Research Web Developer, currently living in Daegu, South Korea <img src="https://media.giphy.com/media/Xb77C8ctxLQ5I4lSsu/giphy.gif" width="30"> .
 
 - :telescope: 🔭 I’m currently working on WaterQuality projects as a Software Engineer and contributing to frontend and backend for building web applications.
 

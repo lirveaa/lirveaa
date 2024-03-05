@@ -6,7 +6,7 @@
    <a href="https://www.linkedin.com/in/husen-mansurov-01752322b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@clevotube7379">
+  <a href="https://www.youtube.com/@clevotube">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   </div>

@@ -24,7 +24,7 @@ I'm a Research Web Developer, currently living in Daegu, South Korea <img src="h
 
 - :telescope: 🔭 I’m currently working on Pharmacy Automation projects as a Software Engineer and contributing to frontend and backend for building desktop applications.
 
-- :seedling: Currently learning Flutter for mabile development
+- :seedling: Currently learning Flutter for mobile development
 
 - :zap: In my free time, I make videos for my blog in Youtube
 

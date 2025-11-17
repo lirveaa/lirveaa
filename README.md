@@ -22,11 +22,11 @@
 ### :woman_technologist: About Me :
 I'm a Research Web Developer, currently living in Daegu, South Korea <img src="https://media.giphy.com/media/Xb77C8ctxLQ5I4lSsu/giphy.gif" width="30"> .
 
-- :telescope: 🔭 I’m currently working on Pharmacy Automation projects as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: 🔭 I’m currently working on Pharmacy Automation projects as a Software Engineer and contributing to frontend and backend for building desktop applications.
 
 - :seedling: Currently learning Flutter for mabile development
 
-- :zap: In my free time, I make posts for my technical blog in Telegram
+- :zap: In my free time, I make videos for my blog in Youtube
 
 - :mailbox:How to reach me: lirvess@gmail.com
 ---

@@ -6,7 +6,7 @@
    <a href="https://www.linkedin.com/in/husen-mansurov-01752322b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@clevotube">
+  <a href="https://www.youtube.com/@husenhub">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   </div>
@@ -22,9 +22,9 @@
 ### :woman_technologist: About Me :
 I'm a Research Web Developer, currently living in Daegu, South Korea <img src="https://media.giphy.com/media/Xb77C8ctxLQ5I4lSsu/giphy.gif" width="30"> .
 
-- :telescope: 🔭 I’m currently working on WaterQuality projects as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: 🔭 I’m currently working on Pharmacy Automation projects as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Currently learning AI with TensorFlow library
+- :seedling: Currently learning Flutter for mabile development
 
 - :zap: In my free time, I make posts for my technical blog in Telegram
 
